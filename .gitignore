@@ -1,0 +1,8 @@
+# The ledger is the user's own financial records.
+budget_data.csv
+budget_export_*.csv
+
+__pycache__/
+*.pyc
+.venv/
+venv/

@@ -1,0 +1,38 @@
+date,type,category,description,amount
+2026-03-01,Income,Salary,March salary,2500.00
+2026-03-05,Expense,Rent,Monthly rent,850.00
+2026-03-07,Expense,Utilities,Electricity bill,62.50
+2026-03-10,Expense,Food,Weekly groceries,45.30
+2026-03-12,Expense,Transport,Monthly bus pass,55.00
+2026-03-14,Expense,Food,Lunch with colleagues,18.75
+2026-03-18,Expense,Shopping,New headphones,79.99
+2026-03-20,Income,Freelance,Website design project,400.00
+2026-03-22,Expense,Entertainment,Cinema and dinner,34.00
+2026-03-25,Expense,Health,Gym membership,30.00
+2026-03-28,Expense,Food,Weekend groceries,52.10
+2026-04-01,Income,Salary,April salary,2500.00
+2026-04-03,Expense,Rent,Monthly rent,850.00
+2026-04-06,Expense,Utilities,Gas bill,48.00
+2026-04-08,Expense,Food,Weekly groceries,41.20
+2026-04-10,Income,Gift,Birthday money from family,100.00
+2026-04-11,Expense,Transport,Train tickets,27.50
+2026-04-13,Expense,Shopping,Clothes,95.00
+2026-04-15,Expense,Health,Dentist appointment,60.00
+2026-04-17,Expense,Food,Takeaway,22.40
+2026-04-19,Income,Freelance,Logo design work,250.00
+2026-04-21,Expense,Entertainment,Streaming subscriptions,25.97
+2026-04-24,Expense,Food,Weekly groceries,38.60
+2026-04-27,Expense,Utilities,Internet bill,35.00
+2026-05-01,Income,Salary,May salary,2500.00
+2026-05-02,Expense,Rent,Monthly rent,850.00
+2026-05-05,Expense,Food,Weekly groceries,49.80
+2026-05-07,Expense,Transport,Taxi to airport,31.00
+2026-05-09,Income,Investment,Dividend payment,175.00
+2026-05-11,Expense,Shopping,Birthday gift for friend,40.00
+2026-05-13,Expense,Health,Pharmacy,14.99
+2026-05-15,Expense,Utilities,Phone bill,20.00
+2026-05-17,Expense,Food,Restaurant dinner,55.00
+2026-05-19,Expense,Entertainment,Concert ticket,45.00
+2026-05-22,Expense,Food,Weekly groceries,44.15
+2026-05-25,Income,Freelance,Content writing,180.00
+2026-05-27,Expense,Transport,Monthly bus pass,55.00

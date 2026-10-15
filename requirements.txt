@@ -1,0 +1,4 @@
+rich>=13
+# plotext 6 is a rewrite that removed clf(), bar() and show(); every chart
+# in the tracker is written against the 5.x API.
+plotext>=5.2,<6
